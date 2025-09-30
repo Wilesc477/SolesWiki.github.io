@@ -1,0 +1,4 @@
+# Description
+A small town near [[Thurain Lake]]. The town has fall weather that borders on winter temperatures on occasion. Wehret is small, mostly subsisting on farming and traders coming through the town on their way to larger towns. The players may likely find themselves in town as part of a trading caravan that was traveling through the town. The people in the town can't offer much knowledge about the greater world, but treat the players with hospitality. Rumors are spreading around the town about a number of citizens going missing, seemingly without a trace. The stories are wildly inconsistent, with the only real common theme being it was raining.
+
+# notable characters

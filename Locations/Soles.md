@@ -1,0 +1,4 @@
+# Description
+The northern continent where the campaign takes place. Much of the continent consists of grasslands and cold deserts. The main kingdoms that rule of the northern continent include [[Excited Land!!]], [[Kingdom of Rezg]], [[Khar Theocracy]], [[Onzonian Empire]], and the [[Kingdom of Grorju]]. See maps with borders and Biomes Below.![[Soles (borders).png]]
+![[Soles (Biomes).png]]
+The Kingdoms aside from ExcitedLand!! have had repeated wars over the past couple centuries (see [[80 year war]], [[war of 1000]], [[Red year]]), but are in a period of uneasy peace for the moment. The players begin their quest in west Soles, in the town of [[Wehret]].
