@@ -1,0 +1,40 @@
+# 📝 ExcitedLand
+
+> [!summary]  
+> **Summary:** One of the 5 major kingdoms of Soles, ruling over most of West Soles.
+
+---
+
+## 📌 Table of Contents
+
+- [🧭 Overview](#🧭%20Overview)
+- [🕰️ Background](#🕰️%20Background)
+
+---
+
+## 🧭 Overview
+
+### Government
+
+- City state led by 'His Excellency, President for Life, Field Marshal Chac, VC, DSO, MC, Lord of All the Beasts of the Earth and Fishes of the Seas and Conqueror of man in the West in General and [Daisha](Locations/Daisha) in Particular' (Lord Chac or President Chac outside [The Capital!!](Locations/The%Capital))
+
+- Dominant kingdom of West Soles, centered on "The Capital!!"
+
+### Necromancy
+
+- Created the necromancy technique "Dominating Thread"
+
+- Allows a caster full control over an undead, but requires concentration from the user.
+- Quantity controlled by a single caster is also limited, but undead are very life like
+
+---
+
+## 🕰️ Background
+
+### Historical significance
+
+- One of the 5 major kingdoms
+
+- Uninvolved in most conflicts except the [Red Year](./Events/Red%Year), where ExcitedLand!! annexed several smaller kingdoms surrounding itself, expanding its borders greatly.
+
+---
